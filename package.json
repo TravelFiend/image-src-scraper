@@ -1,0 +1,15 @@
+{
+  "name": "image-src-scraper",
+  "version": "0.0.1",
+  "description": "Runs through sitemap json to get all image srcs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mike Grace <mike@mikegrace.tech>",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.2.0"
+  }
+}
